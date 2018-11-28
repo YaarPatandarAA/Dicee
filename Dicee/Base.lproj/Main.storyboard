@@ -68,6 +68,7 @@
                         <outlet property="diceImageView1" destination="VLn-E1-scO" id="Bbu-Da-8o3"/>
                         <outlet property="diceImageView2" destination="ELL-GB-7UX" id="EvS-cH-k7s"/>
                         <outlet property="timesButtonPressed" destination="rPU-tl-s1R" id="NQL-Oq-rtA"/>
+                        <outlet property="timesShaken" destination="b5Z-n5-Wjd" id="OWV-57-H8f"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
